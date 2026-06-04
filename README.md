@@ -22,8 +22,8 @@ I enjoy building reproducible infrastructure and automating deployments.
 
 ## 📂 Featured Projects
 
-### 🔐 DevOps Infrastructure (VPN + Automation)
-Full infrastructure project with VPN server, automation, monitoring and backup.
+### 🔐 DevOps Infrastructure 
+Full infrastructure project with cloud techologies, IaC, automation, monitoring and CI/CD
 
 - Terraform infrastructure
 - Ansible configuration management
@@ -31,6 +31,13 @@ Full infrastructure project with VPN server, automation, monitoring and backup.
 - Backup automation
 - GitHub: https://github.com/DmitSimakov/DevopsStackProject
 
+###    Linux Infrastructure
+Full infrastructure project with OpenVPN, CA, automation, monitoring backup
+
+- Writing bash scripts
+- Prometheus + Grafana monitoring
+- Backup automation
+- GitHub: https://github.com/DmitSimakov/OpenVpnProj
 ---
 
 ### 🐍 Python Projects
