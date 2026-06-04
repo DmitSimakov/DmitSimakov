@@ -1,16 +1,80 @@
-## Hi there 👋
+# 👋 Hi, I'm Dmitry
 
-<!--
-**DmitSimakov/DmitSimakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Junior DevOps Engineer
 
-Here are some ideas to get you started:
+I am a Junior DevOps Engineer focused on infrastructure automation, CI/CD pipelines, and cloud systems.  
+I enjoy building reproducible infrastructure and automating deployments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+
+- Linux (Ubuntu)
+- Docker / Docker Compose
+- Terraform
+- Ansible
+- Git / GitHub
+- CI/CD (GitHub Actions)
+- Monitoring (Prometheus, Grafana)
+- Networking (VPN / OpenVPN)
+
+---
+
+## 📂 Featured Projects
+
+### 🔐 DevOps Infrastructure (VPN + Automation)
+Full infrastructure project with VPN server, automation, monitoring and backup.
+
+- Terraform infrastructure
+- Ansible configuration management
+- Prometheus + Grafana monitoring
+- Backup automation
+- GitHub: https://github.com/DmitSimakov/DevopsStackProject
+
+---
+
+### 🐍 Python Projects
+Practice projects and automation scripts in Python.
+
+- Jupyter Notebooks
+- Basic algorithms and scripting
+- GitHub: https://github.com/DmitSimakov/Projects
+
+---
+
+### 🧱 MyProfile Business App
+Console application simulating real business user data handling.
+
+- Input validation (INN, OGRNIP)
+- Banking data handling
+- Clean CLI structure
+- GitHub: (add later)
+
+---
+
+## 📊 DevOps Skills
+
+- Infrastructure as Code (IaC)
+- Server automation
+- Linux system administration
+- CI/CD pipelines
+- Monitoring & logging
+- Networking basics
+
+---
+
+## 🎯 Goals
+
+- Improve Kubernetes skills
+- Gain real-world DevOps experience
+- Build production-ready infrastructure projects
+- Learn cloud platforms (AWS / Yandex Cloud)
+
+---
+
+## 📫 Contact
+
+- GitHub: https://github.com/DmitSimakov
+- Email: simakovdima2001@mail.ru👋
+
+
