@@ -46,7 +46,8 @@ Practice projects and automation scripts in Python.
 - Jupyter Notebooks
 - Basic algorithms and scripting
 - GitHub: https://github.com/DmitSimakov/Projects
-
+  
+### Kubernetis project
 ---
 
 ### 🧱 MyProfile Business App
@@ -67,7 +68,8 @@ Console application simulating real business user data handling.
 - CI/CD pipelines
 - Monitoring & logging
 - Networking basics
-
+- Docker
+- Kubernetis
 ---
 
 ## 🎯 Goals
