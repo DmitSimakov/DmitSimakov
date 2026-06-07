@@ -59,7 +59,6 @@ Technologies: Kubernetes, Minikube, Docker, Nginx, YAML
 - Practiced Kubernetes core concepts: Pods, ReplicaSets, Deployments, Services
 - Performed scaling and rolling updates to simulate production-like workload changes
 - Automated application deployment using declarative YAML manifests
-- 
 ---
 
 ### 🧱 MyProfile Business App
