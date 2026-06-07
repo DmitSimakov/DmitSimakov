@@ -46,8 +46,20 @@ Practice projects and automation scripts in Python.
 - Jupyter Notebooks
 - Basic algorithms and scripting
 - GitHub: https://github.com/DmitSimakov/Projects
+---
   
-### Kubernetis project
+### 🚀 Kubernetes DevOps Project (Minikube)
+
+Technologies: Kubernetes, Minikube, Docker, Nginx, YAML
+
+- Deployed a containerized web application using Kubernetes (Minikube cluster)
+- Configured and managed Deployments to ensure application scalability and self-healing (3 replicas)
+- Exposed the application externally using a NodePort Service
+- Implemented ConfigMap to separate application configuration from container image
+- Practiced Kubernetes core concepts: Pods, ReplicaSets, Deployments, Services
+- Performed scaling and rolling updates to simulate production-like workload changes
+- Automated application deployment using declarative YAML manifests
+- 
 ---
 
 ### 🧱 MyProfile Business App
